@@ -1,4 +1,4 @@
-- 👋 Hi, I’m watcharapong kitworrawut
+- 👋 Hi, I’m watcharapong kitworrawut.
 - 👀 I’m interested in Data Analyst,Business,Technology
 - 🌱 I’m currently learning R,Python
 - 📫 How to reach me watcharapong.kitworrawut@gmail.com
