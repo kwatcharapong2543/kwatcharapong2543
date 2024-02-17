@@ -1,5 +1,5 @@
 - 👋 Hi, I’m watcharapong kitworrawut.
-- 👀 I’m interested in Data Analyst,Business,Technology,Business intelligence.
+- 👀 I’m interested in Data Analyst,Business,Technology,Business intelligence,Data Visualization
 - 🌱 I’m currently learning R,Python.
 - 📫 How to reach me watcharapong.kitworrawut@gmail.com
 
